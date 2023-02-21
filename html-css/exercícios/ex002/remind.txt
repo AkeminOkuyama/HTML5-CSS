@@ -1,0 +1,49 @@
+colors
+
+Black #0D0D0D
+Dark Red #732424
+Red #D92323
+Dark R #8C6723
+Royal #F2E852
+
+
+
+
+<pre> </pre>
+<code> </code>
+
+&lt; &gt;
+&le; &ge;
+
+&pound;
+&yen;
+&euro;
+
+&copy;
+&reg;
+&trade;
+
+&permil;
+&sum;
+&infin;
+&times;
+&plusmn;
+&oplus;
+&radic;
+&ne;
+
+&Delta;
+&Lambda;
+&omega;
+&phi; 
+
+&larr;
+&rarr;
+&uarr;
+&darr;
+&harr;
+
+&spades;
+&clubs;
+&hearts;
+&diams;
